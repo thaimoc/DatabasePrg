@@ -1,0 +1,2 @@
+﻿nhớ restore thêm data shopes_new.bak nhé.
+có thêm bảng USer nữa. 
